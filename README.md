@@ -1,3 +1,6 @@
+![TRAA Logo](/images/traa_logo.jpg)
+Format: ![TRAA Logo](C:\Users\15195\Documents\wk7_inclass\images\traa_logo.jpg)
+
 # TRAA Midterm Review
 Going over some stuff  that almost everyone got slightly wrong. Not major stuff, do don't feel bad, but minor stuff we don't want to keep doing.
 
@@ -11,7 +14,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](http://caniuse.com) [babel](http://https://babeljs.io)for reference). Also using latest ES6/next, you should probably think about including babel for transpilation (or an NPM script).
+Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](http://caniuse.com) [babel](http://https://babeljs.io) for reference). Also using latest ES6/next, you should probably think about including babel for transpilation (or an NPM script).
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
