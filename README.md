@@ -1,5 +1,5 @@
 ![TRAA Logo](/images/traa_logo.jpg)
-Format: ![TRAA Logo](C:\Users\15195\Documents\wk7_inclass\images\traa_logo.jpg)
+Format: ![TRAA Logo](images/traa_logo.jpg)
 
 # TRAA Midterm Review
 Going over some stuff  that almost everyone got slightly wrong. Not major stuff, do don't feel bad, but minor stuff we don't want to keep doing.
