@@ -43,6 +43,9 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
+Designer is:
+Developer is: Taylor Dronfield
+
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
@@ -54,7 +57,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 (MIT is usually fine)
 
 ## Acknowledgments
-
+*inspriation, code snippets, etc.
 *pinterest board, slack channel, etc.s
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
